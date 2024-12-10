@@ -17,7 +17,6 @@ ThorM is a machine learning-based project designed to classify convective storm 
   - Support Vector Machine (SVM)
   - k-Nearest Neighbors (kNN)
   - XGBoost
-- **Anomaly Detection:** Identification of unusual climatological patterns to aid in storm prediction.
 - **Visualization:** Data visualizations for better interpretability and understanding of storm risks.
 
 ## Technologies Used
