@@ -8,7 +8,7 @@ ThorM is a machine learning-based project designed to classify convective storm 
 - Apply and compare machine learning models (SVM, KNN, Decision Trees, Random Forests, XGBoost) for storm risk classification.
 - Identify key weather variables influencing storm risk levels using Recursive Feature Elimination (RFE).
 - Optimize model performance using hyperparameter tuning techniques.
-- 
+  
 ## Features
 - **Data Analysis:** Exploratory Data Analysis (EDA) to identify patterns and relationships in climatological data.
 - **Machine Learning Models:** Evaluation and implementation of multiple ML algorithms, including:
